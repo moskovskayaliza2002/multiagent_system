@@ -85,7 +85,7 @@ flowchart TD
 
 ### 2. **Диспетчер (`Dispatcher.py`)**
 - **Координация**:  
-  Управляет воспроизведением текста через синтезатор речи [SOL](!https://github.com/asanmalyshev/speak_out_loud) и парсит метки действий.
+  Управляет воспроизведением текста через синтезатор речи [SOL](https://github.com/asanmalyshev/speak_out_loud) и парсит метки действий.
 - **Метки действий**:  
   Формат `<тип:параметр_1;параметр_n>`. Примеры:
   - Поза: `<pose:left_arm;attention>`
@@ -193,4 +193,4 @@ rosrun moc_multiagent_scenario multiagent_dispatcher.py
 Лицензия: MIT.
 
 **Автор:** Moscovskaya, E.D.
-**Репозиторий:** [репо](!https://github.com/moskovskayaliza2002)
+**Репозиторий:** [репо](https://github.com/moskovskayaliza2002)
