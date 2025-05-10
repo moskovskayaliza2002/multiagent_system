@@ -1,0 +1,12 @@
+string secret_path
+string model
+string exhibit_name
+string description_dir
+string reduce_prompt_path
+string action_labels_prompt_path
+string scenario_dir
+int32 num_symbols
+string tour_style
+bool jokes_flag
+---
+---
